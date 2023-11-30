@@ -1,6 +1,6 @@
 ﻿
 
-string folderPath = @"C:\Users\Aleksandr\source\repos\Week8EpicGames\";
+string folderPath = @"C:";
 string heroFile = "heroes.txt";
 string villainFile = "villains.txt";
 
